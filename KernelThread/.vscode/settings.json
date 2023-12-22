@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "thread.C": "cpp",
+        "scheduler.C": "cpp",
+        "frame_pool.C": "cpp",
+        "simple_timer.C": "cpp",
+        "kernel.C": "cpp",
+        "simple_keyboard.C": "cpp"
+    }
+}

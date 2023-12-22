@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cont_frame_pool.C": "cpp",
+        "exceptions.C": "cpp",
+        "page_table.C": "cpp",
+        "vm_pool.C": "cpp",
+        "kernel.C": "cpp"
+    }
+}

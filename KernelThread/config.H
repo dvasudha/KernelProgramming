@@ -1,0 +1,3 @@
+#define _USES_SCHEDULER_
+#define _TERMINATING_FUNCTIONS_
+#define _RR_SCHEDULER_
